@@ -1,0 +1,6 @@
+C:\Users\nikit\OneDrive\Документы\Для анкеты\Для анкеты\5 Задача\bin\Debug\5 Задача.exe.config
+C:\Users\nikit\OneDrive\Документы\Для анкеты\Для анкеты\5 Задача\bin\Debug\5 Задача.exe
+C:\Users\nikit\OneDrive\Документы\Для анкеты\Для анкеты\5 Задача\bin\Debug\5 Задача.pdb
+C:\Users\nikit\OneDrive\Документы\Для анкеты\Для анкеты\5 Задача\obj\Debug\5 Задача.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Документы\Для анкеты\Для анкеты\5 Задача\obj\Debug\5 Задача.exe
+C:\Users\nikit\OneDrive\Документы\Для анкеты\Для анкеты\5 Задача\obj\Debug\5 Задача.pdb

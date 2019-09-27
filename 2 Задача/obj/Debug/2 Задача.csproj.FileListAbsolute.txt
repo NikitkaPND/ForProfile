@@ -1,0 +1,13 @@
+C:\Users\nikit\OneDrive\Документы\Для анкеты\Для анкеты\2 Задача\bin\Debug\2 Задача.exe.config
+C:\Users\nikit\OneDrive\Документы\Для анкеты\Для анкеты\2 Задача\bin\Debug\2 Задача.exe
+C:\Users\nikit\OneDrive\Документы\Для анкеты\Для анкеты\2 Задача\bin\Debug\2 Задача.pdb
+C:\Users\nikit\OneDrive\Документы\Для анкеты\Для анкеты\2 Задача\obj\Debug\2 Задача.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Документы\Для анкеты\Для анкеты\2 Задача\obj\Debug\2 Задача.exe
+C:\Users\nikit\OneDrive\Документы\Для анкеты\Для анкеты\2 Задача\obj\Debug\2 Задача.pdb
+C:\Users\nikit\OneDrive\Документы\Для анкеты\2 Задача\bin\Debug\2 Задача.exe.config
+C:\Users\nikit\OneDrive\Документы\Для анкеты\2 Задача\bin\Debug\2 Задача.exe
+C:\Users\nikit\OneDrive\Документы\Для анкеты\2 Задача\bin\Debug\2 Задача.pdb
+C:\Users\nikit\OneDrive\Документы\Для анкеты\2 Задача\obj\Debug\2 Задача.csprojAssemblyReference.cache
+C:\Users\nikit\OneDrive\Документы\Для анкеты\2 Задача\obj\Debug\2 Задача.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Документы\Для анкеты\2 Задача\obj\Debug\2 Задача.exe
+C:\Users\nikit\OneDrive\Документы\Для анкеты\2 Задача\obj\Debug\2 Задача.pdb
